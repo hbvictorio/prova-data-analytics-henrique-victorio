@@ -23,7 +23,7 @@ As respostas detalhadas às 7 perguntas de negócio estão em [`docs/respostas_p
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/<usuario>/prova-data-analytics-henrique-victorio.git
+git clone https://github.com/hbvictorio/prova-data-analytics-henrique-victorio.git
 cd prova-data-analytics-henrique-victorio
 
 # 2. Instale as dependências
