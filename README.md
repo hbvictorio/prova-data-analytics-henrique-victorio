@@ -2,8 +2,6 @@
 
 **Análise de Exportação e Importação: Vinhos de Mesa, Espumantes e Sucos de Uva**
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![pandas](https://img.shields.io/badge/pandas-2.x-150458) ![matplotlib](https://img.shields.io/badge/matplotlib-3.x-11557c) ![seaborn](https://img.shields.io/badge/seaborn-0.12-4c72b0)
-
 Este repositório contém a entrega completa da prova de Data Analytics: uma análise de dados da vitivinicultura brasileira solicitada pelos diretores de uma empresa de vinhos no Brasil, com base na série histórica oficial de 1970 a 2025 da **Embrapa Uva e Vinho (Vitibrasil)**.
 
 > **Fonte de dados:** [Vitibrasil — Banco de dados de uva, vinho e derivados](http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01)
