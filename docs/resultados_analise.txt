@@ -1,0 +1,108 @@
+Download concluído.
+
+Base consolidada: (29176, 6)
+                              Pais   Ano  ...       Fluxo         Produto
+0                      Afeganistão  1970  ...  Exportação  Vinhos de mesa
+1                    África do Sul  1970  ...  Exportação  Vinhos de mesa
+2  Alemanha, República Democrática  1970  ...  Exportação  Vinhos de mesa
+3                           Angola  1970  ...  Exportação  Vinhos de mesa
+4                         Anguilla  1970  ...  Exportação  Vinhos de mesa
+
+[5 rows x 6 columns] 
+
+===============================================================================
+P1 e P2 - PAÍSES LÍDERES (acumulado no período)
+===============================================================================
+
+Exportação - Vinhos de mesa:
+  Líder em VALOR : Paraguai (US$ 102,717,952 | 127,579,737 Kg)
+  Líder em VOLUME: Paraguai (127,579,737 Kg | US$ 102,717,952)
+  Top 5 por valor:
+                Quantidade_kg  Valor_usd
+Pais                                    
+Paraguai            127579737  102717952
+Estados Unidos       56159821   73387663
+Rússia               39808449   25916557
+Reino Unido           3534776    8776887
+Japão                 8264388    7199954
+
+Exportação - Espumantes:
+  Líder em VALOR : Estados Unidos (US$ 11,213,027 | 3,971,386 Kg)
+  Líder em VOLUME: Estados Unidos (3,971,386 Kg | US$ 11,213,027)
+  Top 5 por valor:
+                Quantidade_kg  Valor_usd
+Pais                                    
+Estados Unidos        3971386   11213027
+Paraguai              1882763    2765885
+Reino Unido            406150    1864946
+Angola                 283985    1536375
+Uruguai                257841     993558
+
+Exportação - Suco de uva:
+  Líder em VALOR : Japão (US$ 203,839,305 | 95,350,472 Kg)
+  Líder em VOLUME: Japão (95,350,472 Kg | US$ 203,839,305)
+  Top 5 por valor:
+                Quantidade_kg  Valor_usd
+Pais                                    
+Japão                95350472  203839305
+Estados Unidos       74890918   95643761
+Canadá               11996233   15887162
+Porto Rico            9039479   14514955
+Suécia                8152978    9372333
+
+Importação - Vinhos de mesa:
+  Líder em VALOR : Chile (US$ 2,610,178,367 | 981,053,253 Kg)
+  Líder em VOLUME: Chile (981,053,253 Kg | US$ 2,610,178,367)
+  Top 5 por valor:
+           Quantidade_kg   Valor_usd
+Pais                                
+Chile          981053253  2610178367
+Argentina      410160560  1259805730
+Portugal       390534981  1098928723
+Itália         269485310   769934542
+França         121389730   563947299
+
+Importação - Espumantes:
+  Líder em VALOR : França (US$ 403,034,903 | 38,132,223 Kg)
+  Líder em VOLUME: França (38,132,223 Kg | US$ 403,034,903)
+  Top 5 por valor:
+           Quantidade_kg  Valor_usd
+Pais                               
+França          38132223  403034903
+Espanha         30495783  105818654
+Itália          34197508  104404706
+Argentina       20207050   64560934
+Chile            4864089   16535956
+
+Importação - Suco de uva:
+  Líder em VALOR : Argentina (US$ 23,418,594 | 27,961,581 Kg)
+  Líder em VOLUME: Argentina (27,961,581 Kg | US$ 23,418,594)
+  Top 5 por valor:
+                          Quantidade_kg  Valor_usd
+Pais                                              
+Argentina                      27961581   23418594
+Chile                           4705765    6702648
+Coreia do Sul, República        1722792    1694496
+México                          2785205    1281146
+Estados Unidos                   574785     767284
+Gráfico salvo: top5_paises_exportacao.png
+Gráfico salvo: top5_paises_importacao.png
+Gráfico salvo: tendencia_exportacao_valor.png
+Gráfico salvo: tendencia_exportacao_volume.png
+Gráfico salvo: tendencia_importacao_valor.png
+Gráfico salvo: tendencia_importacao_volume.png
+===============================================================================
+P7 - VALOR DE EXPORTAÇÃO NO ANO MAIS RECENTE DA BASE (2025)
+===============================================================================
+                Quantidade_kg  Valor_usd
+Produto                                 
+Vinhos de mesa        6540975   10846438
+Espumantes             683060    2560852
+Suco de uva           3029975    8142080
+
+Total exportado (2025): US$ 21,549,370
+Gráfico salvo: kpi_exportacao_ano_recente.png
+Gráfico salvo: balanca_comercial.png
+
+Base tratada exportada: base_consolidada_vitibrasil.csv
+Análise concluída com sucesso!
